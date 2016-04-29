@@ -1,0 +1,96 @@
+body{
+    width: auto;
+    height: auto;
+    background-color:#fff7f7;
+    margin:0 auto;
+    text-align:center;
+    font-size:65.2%;
+    font-family: sans-serif;
+}
+
+div{
+    display: inline-block;
+}
+
+span{
+    display:inline-block;
+    padding:0;
+    margin:0;
+}
+
+#contact_container{
+    background-color: white;
+    width:40rem;
+    height:200rem;
+    text-align: center;
+}
+
+p{
+    margin: 0 auto;
+}
+
+
+
+#top_row_container{
+    width:100%;
+    height:5rem;
+    margin-top:1rem;
+    font-size:2.2rem;
+    border-bottom: 1px solid #cccbd1;
+}
+
+#top_row_container > span{
+    width:auto;
+}
+    
+#group_button{
+    float:left;
+    margin:1rem 0 0 20px;
+    color:#b9d8fa;
+}
+
+#contact{
+    float: none;
+    margin: 1rem 35px 0 0;
+    font-weight:bold;
+}
+
+#plus_button{
+    float:right;
+    margin: -9px 2rem 0 2rem;
+    font-size:3rem;
+    color:#73beff;
+}
+
+#search{
+    width: 95%;
+    height: 60%;
+    marign-top: 1px;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+}
+
+#search_container{
+    width: 100%:
+    height: 5.5rem;
+    background-color: white;
+    border-bottom: solid 1px green;
+    
+}
+
+
+div[id^=abc]{
+    height:5rem;
+    width:100%;
+    background-color:#f7727f;
+}
+
+
+p[id^=letter_container_]{
+    background-color: lightblue;
+    font-weight: bold;
+    padding-left: ;
+    height: 3.5rem;
+    text-align: center;
+}
